@@ -20,7 +20,6 @@ def q5():
   user4 = input("Input another integer: ")
   result = user3*user4 > 40
   print("Your numbers multiplied together are greater than 40: ", result)
-  print("blackie")
 #Do edit the code below
 #Comment the lines below when running your tests
 '''
