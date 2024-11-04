@@ -9,14 +9,15 @@ def q2():
   booll2 = num1 > 5
   print(booll2)
 def q3():
-  #Write code hereuser2 = input("Input a word earlier in the dictionary than google: ")
-  booll = "google" > user2
-  print(booll)
-def q4():
   #Write code here
   word = input("Input the letter a: ")
   user15 = "a" == word
   print(user15)
+def q4():
+  #Write code here
+  user2 = input("Input a word earlier in the dictionary than google: ")
+  result1 = user2 < "google"
+  print(result1)
 def q5():
   #Write code here
   user3 = input("Input an integer: ")
