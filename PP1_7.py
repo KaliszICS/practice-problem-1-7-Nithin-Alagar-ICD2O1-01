@@ -8,7 +8,7 @@ def q2():
   print(booll>=5)
 def q3():
   #Write code here
-  user1 = input("Input the letter a:")
+  user1 = input("Input the letter a: ")
   print(user1 == "a")
 def q4():
   #Write code here
