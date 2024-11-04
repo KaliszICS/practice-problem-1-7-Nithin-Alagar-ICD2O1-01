@@ -22,10 +22,10 @@ def q5():
   print("Your numbers multiplied together are greater than 40: ",result)
 #Do edit the code below
 #Comment the lines below when running your tests
-'''
+
 q1()
 q2()
 q3()
 q4()
 q5()
-'''
+
