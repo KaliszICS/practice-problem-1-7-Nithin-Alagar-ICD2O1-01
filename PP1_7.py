@@ -4,19 +4,20 @@ def q1():
  print(booll)
 def q2():
 #Write code here
-  booll = input("Input an integer: ")
-  booll = float(booll2)
-  booll2 = booll > 5
+  num1 = input("Input an integer: ")
+  num1 = float(num1)
+  booll2 = num1 > 5
   print(booll2)
 def q3():
   #Write code here
-  user1 = input("Input the letter a:")
-  user15 = user1 == "a"
+  word = input("Input the letter a: ")
+  user15 = "a" == word
   print(user15)
 def q4():
   #Write code here
   user2 = input("Input a word earlier in the dictionary than google: ")
-  print(user2<"google")
+  booll = "google" > user2
+  print(booll)
 def q5():
   #Write code here
   user3 = input("Input an integer: ")
@@ -26,9 +27,9 @@ def q5():
 #Do edit the code below
 #Comment the lines below when running your tests
 
-#q1()
-#q2()
-#q3()
-#q4()
-#q5()
+q1()
+q2()
+q3()
+q4()
+q5()
 
